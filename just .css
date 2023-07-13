@@ -1,0 +1,14 @@
+.form-control .me-2{
+    position: right;
+
+
+}
+.control{
+    background-color: wheat;
+    position: relative;
+    right: 1000px;
+}
+.dwip{
+    position:relative;
+    right: 900px;
+}
